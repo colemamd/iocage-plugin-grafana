@@ -1,2 +1,2 @@
 sysrc grafana_enable="YES"
-service grafana star
+service grafana start
